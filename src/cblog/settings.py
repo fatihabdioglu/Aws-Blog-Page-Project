@@ -102,7 +102,7 @@ DATABASES = {
         'NAME': 'clarusway',
         'USER': db_username,
         'PASSWORD': db_password,
-        'HOST': 'aws-capstone-rds.cxl2hz5xzcuc.us-east-1.rds.amazonaws.com',
+        'HOST': 'aws-capstone-rds.cwrpwzrgukl5.us-east-1.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
